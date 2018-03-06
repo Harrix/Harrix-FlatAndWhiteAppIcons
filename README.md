@@ -1,1 +1,1 @@
-# Harrix-WhiteAppIcons
+# Harrix-FlatAndWhiteAppIcons
