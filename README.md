@@ -2,4 +2,4 @@
 
 Free vector images.
 
-License [MIT](https://github.com/Harrix/Harrix-FlatAndWhiteAppIcons/blob/master/LICENSE.md).
+License [CC BY 4.0](https://github.com/Harrix/Harrix-FlatAndWhiteAppIcons/blob/master/LICENSE.md).
