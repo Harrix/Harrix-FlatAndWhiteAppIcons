@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFFFFF;}
-	.st1{opacity:0.1;fill:#FFFFFF;}
+	.st1{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
 </style>
 <g>
-	<polygon class="st0" points="52,460 52,137.5 1.6,138.7 1.6,510.4 99.7,510.4 123.4,460 	"/>
-	<polygon class="st0" points="207.1,1.6 207.1,52 460,52 460,343.3 510.4,343.3 510.4,1.6 	"/>
-	<polygon class="st0" points="460,235.5 460,460 229,460 139.9,510.4 510.4,510.4 510.4,183.8 	"/>
-	<polygon class="st0" points="52,460 52,338.5 1.6,510.2 1.6,510.4 206.6,510.4 362.1,460 	"/>
-	<polygon class="st0" points="52,52 328.2,52 280.5,1.6 1.6,1.6 1.6,194.3 52,195.7 	"/>
+	<g>
+		<polygon class="st0" points="50.7,461.3 50.7,136.8 0,138 0,512 98.7,512 122.6,461.3 		"/>
+		<polygon class="st0" points="206.8,0 206.8,50.7 461.3,50.7 461.3,343.8 512,343.8 512,0 		"/>
+		<polygon class="st0" points="461.3,235.4 461.3,461.3 228.8,461.3 139.2,512 512,512 512,183.3 		"/>
+		<polygon class="st0" points="50.7,461.3 50.7,339 0,511.8 0,512 206.3,512 362.8,461.3 		"/>
+		<polygon class="st0" points="50.7,50.7 328.7,50.7 280.7,0 0,0 0,193.9 50.7,195.3 		"/>
+	</g>
+	<rect x="50.7" y="50.7" class="st1" width="410.6" height="410.6"/>
+	<polygon class="st0" points="161.3,131.4 161.3,103.2 146.8,103.2 105.4,103.2 90.9,103.2 90.9,131.4 105.4,131.4 105.4,254.7 
+		90.9,254.7 90.9,282.9 105.4,282.9 146.8,282.9 161.3,282.9 161.3,254.7 146.8,254.7 146.8,131.4 	"/>
+	<rect x="90.9" y="378.5" class="st0" width="151" height="28.2"/>
+	<path class="st0" d="M269.9,103.2v103.1c0,0,0,14.4,0,21.4s-6.5,18.8-23.9,19.4s-32.7-16.4-32.7-16.4l-24.4,26.5
+		c0,0,15.5,25.7,58.4,25.7c46,0,64.1-29.9,64.1-50.7c0-17.2,0-25.8,0-25.8V103.2H269.9z"/>
 </g>
-<rect x="52" y="52" class="st1" width="408" height="408"/>
-<polygon class="st0" points="161.9,132.2 161.9,104.2 147.5,104.2 106.3,104.2 91.9,104.2 91.9,132.2 106.3,132.2 106.3,254.7 
-	91.9,254.7 91.9,282.7 106.3,282.7 147.5,282.7 161.9,282.7 161.9,254.7 147.5,254.7 147.5,132.2 "/>
-<rect x="91.9" y="377.7" class="st0" width="150.1" height="28"/>
-<path class="st0" d="M269.8,104.2v102.5c0,0,0,14.3,0,21.3s-6.5,18.7-23.8,19.3S213.5,231,213.5,231l-24.2,26.3
-	c0,0,15.4,25.5,58,25.5c45.7,0,63.7-29.7,63.7-50.4c0-17.1,0-25.6,0-25.6V104.2H269.8z"/>
 </svg>
