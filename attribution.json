@@ -10,7 +10,7 @@
     "recommendedAttribution": ""
   },
   {
-    "title": "Logo - Adobe_Audition_CC_icon.svg",
+    "title": "Adobe_Audition_CC_icon.svg",
     "url": "https://commons.wikimedia.org/wiki/File:Adobe_Audition_CC_icon.svg",
     "urlDate": "2019-01-22",
     "author": "Adobe Systems",
@@ -20,8 +20,18 @@
     "recommendedAttribution": ""
   },
   {
-    "title": "Logo - Adobe Bridge CC icon.svg",
+    "title": "Adobe Bridge CC icon.svg",
     "url": "https://commons.wikimedia.org/wiki/File:Adobe_Bridge_CC_icon.svg",
+    "urlDate": "2019-01-22",
+    "author": "Adobe Systems",
+    "authorUrl": "https://www.adobe.com/",
+    "license": "Public domain",
+    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
+    "recommendedAttribution": ""
+  },
+  {
+    "title": "Adobe Dreamweaver CC icon.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Adobe_Dreamweaver_CC_icon.svg",
     "urlDate": "2019-01-22",
     "author": "Adobe Systems",
     "authorUrl": "https://www.adobe.com/",
