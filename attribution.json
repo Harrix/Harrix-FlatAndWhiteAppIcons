@@ -164,7 +164,7 @@
     "url": "https://commons.wikimedia.org/wiki/File:Microsoft_Office_2013_logos_lineup.svg",
     "urlDate": "2019-01-20",
     "author": "Microsoft",
-    "authorUrl": "https://en.wikipedia.org/wiki/Microsoft",
+    "authorUrl": "https://www.microsoft.com/",
     "license": "Public domain",
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
     "recommendedAttribution": ""
@@ -174,7 +174,7 @@
     "url": "https://commons.wikimedia.org/wiki/File:Microsoft_Office_Visio_(2013%E2%80%93present).svg",
     "urlDate": "2019-01-20",
     "author": "Microsoft Corporation",
-    "authorUrl": "https://en.wikipedia.org/wiki/Microsoft",
+    "authorUrl": "https://www.microsoft.com/",
     "license": "Public domain",
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
     "recommendedAttribution": ""
@@ -184,7 +184,27 @@
     "url": "https://commons.wikimedia.org/wiki/File:OneDrive_logo_and_wordmark.svg",
     "urlDate": "2019-01-26",
     "author": "Microsoft Corporation",
-    "authorUrl": "https://en.wikipedia.org/wiki/Microsoft",
+    "authorUrl": "https://www.microsoft.com/",
+    "license": "Public domain",
+    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
+    "recommendedAttribution": ""
+  },
+  {
+    "title": "Qt logo 2016.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Qt_logo_2016.svg",
+    "urlDate": "2019-01-26",
+    "author": "Qt Project",
+    "authorUrl": "https://www.qt.io",
+    "license": "Public domain",
+    "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
+    "recommendedAttribution": ""
+  },
+  {
+    "title": "Skype-for-Business.svg",
+    "url": "https://commons.wikimedia.org/wiki/File:Skype-for-Business.svg",
+    "urlDate": "2019-01-26",
+    "author": "Microsoft Corporation",
+    "authorUrl": "https://www.microsoft.com/",
     "license": "Public domain",
     "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
     "recommendedAttribution": ""
